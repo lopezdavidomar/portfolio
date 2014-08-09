@@ -2,7 +2,7 @@
 layout: post
 title:  "MakerSquare: Week 1.1"
 date:   2014-06-16 10:01:50
-categories: makersquare, development
+categories: development makersquare 
 ---
 
 Today we did a large amount of setup through the command line (yikes!) and learned about the fascinating world of git. 

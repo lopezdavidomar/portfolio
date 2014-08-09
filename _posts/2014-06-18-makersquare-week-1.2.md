@@ -2,7 +2,7 @@
 layout: post
 title:  "MakerSquare: Week 1.2"
 date:   2014-06-18 10:01:50
-categories: makersquare, development
+categories: development makersquare 
 ---
 
 Tonight we delved deeper into the World Wide Web, or the “interweb” as the kids call it nowadays.

@@ -5,8 +5,8 @@
     <description>Illustration Art Digital. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 09 Aug 2014 10:18:41 -0500</pubDate>
-    <lastBuildDate>Sat, 09 Aug 2014 10:18:41 -0500</lastBuildDate>
+    <pubDate>Sat, 09 Aug 2014 11:03:24 -0500</pubDate>
+    <lastBuildDate>Sat, 09 Aug 2014 11:03:24 -0500</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
@@ -47,13 +47,13 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 &lt;p&gt;We also got to discuss some basic CSS stuff (I’ll update as soon as I understand)&lt;/p&gt;
 </description>
         <pubDate>Wed, 18 Jun 2014 05:01:50 -0500</pubDate>
-        <link>http://yourdomain.com/makersquare,/development/2014/06/18/makersquare-week-1.2/</link>
-        <guid isPermaLink="true">http://yourdomain.com/makersquare,/development/2014/06/18/makersquare-week-1.2/</guid>
+        <link>http://yourdomain.com/development/makersquare/2014/06/18/makersquare-week-1.2/</link>
+        <guid isPermaLink="true">http://yourdomain.com/development/makersquare/2014/06/18/makersquare-week-1.2/</guid>
         
-        
-        <category>makersquare,</category>
         
         <category>development</category>
+        
+        <category>makersquare</category>
         
       </item>
     
@@ -70,13 +70,13 @@ is a distributed revision control and source code management (SCM) system with a
 &lt;p&gt;We picked up a few key commands to keep our work saved and up to date on github. I will have to play around with this to get a good grasp on its functionality. &lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Jun 2014 05:01:50 -0500</pubDate>
-        <link>http://yourdomain.com/makersquare,/development/2014/06/16/makersquare-week-1.1/</link>
-        <guid isPermaLink="true">http://yourdomain.com/makersquare,/development/2014/06/16/makersquare-week-1.1/</guid>
+        <link>http://yourdomain.com/development/makersquare/2014/06/16/makersquare-week-1.1/</link>
+        <guid isPermaLink="true">http://yourdomain.com/development/makersquare/2014/06/16/makersquare-week-1.1/</guid>
         
-        
-        <category>makersquare,</category>
         
         <category>development</category>
+        
+        <category>makersquare</category>
         
       </item>
     
