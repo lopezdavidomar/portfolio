@@ -7,12 +7,16 @@
 
     {% include header.html %}
 
+<ul class="nav nav-tabs">
+  {% assign pages_list = site.weighted_pages %}
+  {% assign group = 'navigation' %}
+</ul>
+
     <div class="page-content">
       <div class="wrap">
       {{ content }}
       </div>
-      <div class="test">This is a test div.</div>
-    </div>
+      
 
 
 
