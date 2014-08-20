@@ -15,8 +15,13 @@
     <link rel="stylesheet" href="/css/main.css">
     <link rel="stylesheet" type="text/css" href="/css/custom.css"/>
    <link href='http://fonts.googleapis.com/css?family=Nunito:400,700' rel='stylesheet' type='text/css'>
+   <link rel="stylesheet" href="/css/jquery.fancybox.css" type="text/css" media="screen" />
+
    <!--  END CSS -->
 
+<script>
+
+</script>
 
 </head>
 
@@ -92,10 +97,15 @@
 
 
 <!-- JS START -->
-<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<!-- <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script> -->
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
 <script src="js/jquery.isotope.js" type="text/javascript"></script> 
 <script src="js/custom.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/jquery.fancybox.pack.js"></script>
+<!-- <script src="js/fancy.js" type="text/javascript"></script>
+ -->
+
 <!-- JS END -->
 
 
@@ -130,7 +140,8 @@
 <div class="isotope">
   <div class="element-item transition metal " data-category="transition">
     <h3 class="name"></h3>
-    <p class="img"><img src="img/cat.jpg" width="250px" height="250px"  alt=""></p>
+    <a href="img/cat.jpg" class="fancybox" title=""><img src="img/cat.jpg" width="250px" height="250px"  alt=""/></a>
+   <!--  <p class="img"><img src="img/cat.jpg" width="250px" height="250px"  alt=""></p> -->
 <!--     <p class="symbol">Hg</p>
     <p class="number">80</p> -->
  <!--    <p class="weight">200.59</p> -->
@@ -360,6 +371,13 @@ is a distributed revision control and source code management (SCM) system with a
 
 
 </footer>
+
+
+    <script type="text/javascript">
+    $(document).ready(function(){
+      $(".fancybox").fancybox();
+    })
+    </script>
 
 
     </body>
