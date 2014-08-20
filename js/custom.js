@@ -38,10 +38,10 @@ $( function() {
   });
 
   // bind sort button click
-  $('#sorts').on( 'click', 'button', function() {
-    var sortByValue = $(this).attr('data-sort-by');
-    $container.isotope({ sortBy: sortByValue });
-  });
+  // $('#sorts').on( 'click', 'button', function() {
+  //   var sortByValue = $(this).attr('data-sort-by');
+  //   $container.isotope({ sortBy: sortByValue });
+  // });
   
   // change is-checked class on buttons
   $('.button-group').each( function( i, buttonGroup ) {
