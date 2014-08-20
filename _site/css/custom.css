@@ -172,8 +172,8 @@ body {
 .element-item {
   position: relative;
   float: left;
-  width: 100px;
-  height: 100px;
+  width: 250px;
+  height: 250px;
   margin: 5px;
   padding: 10px;
   background: #888;
@@ -184,8 +184,18 @@ body {
   margin: 0;
   padding: 0;
 }
+.element-item .img {
+  position: absolute;
 
-.element-item .name {
+  left: 0px;
+  top: 0px;
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+/*.element-item .name {
   position: absolute;
 
   left: 10px;
@@ -205,7 +215,7 @@ body {
   color: white;
 }
 
-.element-item .number {
+/*.element-item .number {
   position: absolute;
   right: 8px;
   top: 5px;
@@ -216,7 +226,7 @@ body {
   left: 10px;
   top: 76px;
   font-size: 12px;
-}
+}*/
 
 .element-item.alkali          { background: #F00; background: hsl(   0, 100%, 50%); }
 .element-item.alkaline-earth  { background: #F80; background: hsl(  36, 100%, 50%); }
